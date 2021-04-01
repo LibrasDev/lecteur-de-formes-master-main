@@ -10,6 +10,7 @@ public class FormeOvale extends Forme {
         this.instrument = 2;
     }
 
+    @Override
     public void dessiner(Graphics g) {
         Color saveCouleur = g.getColor();
         if (estSelectionnee) {
