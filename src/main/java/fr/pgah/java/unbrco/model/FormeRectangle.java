@@ -10,6 +10,7 @@ public class FormeRectangle extends Forme {
         this.instrument = 1;
     }
 
+    @Override
     public void dessiner(Graphics g) {
         Color saveCouleur = g.getColor();
         if (estSelectionnee) {
