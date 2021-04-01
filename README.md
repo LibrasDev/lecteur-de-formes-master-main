@@ -24,3 +24,7 @@
 - Concevez la classe abstraite Forme dont vont dériver deux classes concrètes Rectangle et Ovale ; factorisez le code commun dans la classe abstraite Fait
 - Concevez la classe abstraite OutilForme dont vont dériver deux classes concrètes OutilRectangle et OutilOvale ; factorisez le code commun dans la classe abstraite
 L'ajout de nouvelles formes et des outils associés par la suite sera alors grandement facilité. Fait
+
+« T'as Tor ?
+- Oui souvent avec mon chef !
+- T'as raison alors, mais ce ne sont pas mes oignons. »
