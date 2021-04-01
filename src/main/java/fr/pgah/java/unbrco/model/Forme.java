@@ -121,6 +121,5 @@ public abstract class Forme {
     return longueur;
   }
 
-  public void dessiner(Graphics g) {
-  }
+  public abstract void dessiner(Graphics g);
 }
